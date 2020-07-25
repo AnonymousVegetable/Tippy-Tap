@@ -1,0 +1,15 @@
+Tippy Tap:
+
+- Timed - 
+	
+
+- Accuracy - 
+ 
+	- Set size targets
+	- 1.5 - 2 seconds each
+	- Decreasing time between each one (10% off?)
+
+
+- Survival -
+
+	- Score X points returns Y time.
