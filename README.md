@@ -8,5 +8,5 @@ Accuracy Mode - Make sure not to miss any targets! Beware though, the more targe
 
 <br>
 
-![](https://github.com/AnonymousVegetable/Tippy-Tap/blob/master/Menu.png "Menu screen")
+![](Menu.png "Menu screen")
 Coded in C++ using SFML graphics.
